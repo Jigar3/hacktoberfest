@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Jigar Chavada](https://github.com/Jigar3)
+- Place: Allahabad, Uttar Pradesh, India 
+- Bio: Student, Indian Institue of Information Technology
+- GitHub: [Jigar3]https://github.com/Jigar3
